@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//crm/auto/in_auto_active.groovy=UTF-8
+encoding//crm/auto/reversal_in_auto_reject.groovy=UTF-8
+encoding//crm/auto_assign.groovy=UTF-8
+encoding//crm/auto_npr_out.groovy=UTF-8
+encoding//crm/cch_commitment_file.groovy=UTF-8
+encoding//crm/cch_npreturn_request.groovy=UTF-8
+encoding//crm/check_reject.groovy=UTF-8
+encoding//crm/khoitao.groovy=UTF-8
+encoding//crm/sps_khoitao.groovy=UTF-8
+encoding//crm/sps_new.groovy=UTF-8
+encoding//crm/tt_khieunai.groovy=UTF-8
+encoding//crm/vpoint.groovy=UTF-8
+encoding//script/NPR.groovy=UTF-8
