@@ -118,7 +118,7 @@ public class Mnp {
     	props.load(path+"/conf/api.properties");
         props.setReloadingStrategy(new FileChangedReloadingStrategy());
         utility = new SqlUtility(props);
-        textEncryptor.setPassword("vnptnet_modular_encrypt");
+        textEncryptor.setPassword("mat khau");
         
         i18n = new PropertiesConfiguration();
         i18n.setDelimiterParsingDisabled(true);
